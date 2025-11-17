@@ -70,7 +70,7 @@ public class Inventory {
     for (int i = 0; i < inventory.size(); i++) {
       System.out.println(inventory.get(i).toString());
     }
-    System.out.println("\n-----------------------------");
+    System.out.println("-----------------------------");
   }
 
   //sort books by title method
