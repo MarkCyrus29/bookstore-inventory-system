@@ -45,29 +45,39 @@ Here are screenshots demonstrating the flow and functionality of the application
 
 ### 1. Main Menu
 *(A screenshot of the main menu options)*
+
 ![Main Menu](screenshots/main_menu.png)
 
 ### 2. Adding New Books
 *(A screenshot showing the process of adding a couple of books)*
+
 ![Adding Books](screenshots/adding_books1.png)
+
 ![Adding Books](screenshots/adding_books2.png)
+
 ![Adding Books](screenshots/adding_books3.png)
 
 ### 3. Displaying All Books (Unsorted)
 *(A screenshot showing the list of books before sorting)*
+
 ![Display Unsorted](screenshots/display_unsorted.png)
 
 ### 4. Sorting and Displaying Books
 *(A screenshot showing the message after sorting and the newly sorted list)*
+
 ![Sorting and Displaying](screenshots/sorting_and_displaying1.png)
+
 ![Sorting and Displaying](screenshots/sorting_and_displaying2.png)
 
 ### 5. Searching for a Book
 *(A screenshot of the output when searching for a book that exists)*
+
 ![Search Found](screenshots/search_found.png)
 
 ### 6. Managing Customer Orders with the Queue
 *(A screenshot showing a book being added to the order queue and then processed)*
 ![Queue Operations](screenshots/queue_operations1.png)
+
 ![Queue Operations](screenshots/queue_operations2.png)
+
 ![Queue Operations](screenshots/queue_operations3.png)
